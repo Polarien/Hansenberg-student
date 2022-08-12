@@ -1,4 +1,4 @@
-- [My notes](#my-notes)
+- [Patrik notes](#my-notes)
   - [Variables](#variables)
   - [Data types, built-ins, int, string, float](#data-types-built-ins-int-string-float)
   - [Operators; +, -, /, *, %, ++, --](#operators----------)
